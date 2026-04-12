@@ -12,4 +12,4 @@ If you are interested you can follow me on LinkedIn <a href="https://www.linkedi
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [Animation_Issing_Model](https://codeberg.org/noahgcuevas/Animation_Issing_Model) | Animación del modelo de Ising variando la temperatura |
+| [Animation_Issing_Model](https://codeberg.org/noahgcuevas/Modelo_de_Issing) |  |
