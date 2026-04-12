@@ -12,4 +12,5 @@ If you are interested you can follow me on LinkedIn <a href="https://www.linkedi
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [Animation_Issing_Model](https://codeberg.org/noahgcuevas/Modelo_de_Issing) |  |
+| [Modelo_de_Issing](https://codeberg.org/noahgcuevas/Modelo_de_Issing) |  |
+| [Simulación del Sistema Solar](https://codeberg.org/noahgcuevas/Solar_System_Simulation) |  |
