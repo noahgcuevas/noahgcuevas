@@ -2,11 +2,14 @@
 
 ![typing](typing-svg.svg)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/noahgcuevas/)
+[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)]()
+[![Web](https://img.shields.io/badge/website-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=333333)]()
 </div>
 
 I'm a Physics student at the University of Granada and I'll be posting some things here.
 
-If you are interested you can follow me on <a href="https://www.linkedin.com/in/noah-gallardo-cuevas-59ba1b27b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 
 ## 📌 Proyectos destacados
