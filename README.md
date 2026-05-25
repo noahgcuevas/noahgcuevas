@@ -3,8 +3,8 @@
 ![typing](typing-svg.svg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/noahgcuevas/)
-[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)]()
-[![Web](https://img.shields.io/badge/website-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=333333)]()
+[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/noahgcuevas)
+[![Web](https://img.shields.io/badge/website-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=333333)](en proceso)
 </div>
 
 ---
