@@ -1,5 +1,7 @@
 <div align="center">
-[![Typing SVG](typing-svg.svg](https://github.com/whiteSHADOW1234/TypingSVG)
+
+![typing](typing-svg.svg)
+
 </div>
 
 I'm a Physics student at the University of Granada and I'll be posting some things here.
