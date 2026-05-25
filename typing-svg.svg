@@ -4,8 +4,8 @@
     <animate id="cycle" begin="0s;cycle.end" dur="7.12s"/>
     <clipPath id="master-clip"><rect x="0" y="0" width="450" height="150"/></clipPath>
     <style type="text/css"><![CDATA[
-.text-common {
-        dominant-baseline: middle;
+.text-common { 
+        dominant-baseline: middle; 
         text-rendering: optimizeLegibility;
         shape-rendering: geometricPrecision;
       }
