@@ -7,9 +7,9 @@
 [![Web](https://img.shields.io/badge/website-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=333333)]()
 </div>
 
+---
+
 I'm a Physics student at the University of Granada and I'll be posting some things here.
-
-
 
 
 ## 📌 Proyectos destacados
